@@ -7,14 +7,16 @@ body{
 
 h1
 {
-    width: 10;
-    margin:  0 auto 0 auto;
-    font-family: 'Parisienne', cursive;
+  margin-top: 50px;
+      font-size: 570%;
+        width: 10;
+       font-family: 'Parisienne', cursive;
 }
 
 h2
 {
     font-family: 'Montserrat', sans-serif;
+font-size: 2.5rem;
 
 }
 
